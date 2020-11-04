@@ -29,7 +29,7 @@ and to launch and complete our Jupyter notebook if you have never seen this form
 - A) You can download the file, and launch it directly on [Google Colab](https://www.youtube.com/watch?v=agj3AxNPDWU).
 - B) Installing Anaconda on [Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-anaconda-on-ubuntu-18-04-quickstart) | [Mac](https://docs.anaconda.com/anaconda/install/mac-os/) | [Windows](https://problemsolvingwithpython.com/01-Orientation/01.03-Installing-Anaconda-on-Windows/)
 - [Running a Jupyter notebook from Anaconda](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html)
-- C) Or, if you want to code in Python, [How to convert a Jupyter Notebook into a .py file](https://stackoverflow.com/questions/37797709/convert-json-ipython-notebook-ipynb-to-py-file)
+- C) Or, if you want to code in a .py file, [How to convert a Jupyter Notebook into a .py file](https://stackoverflow.com/questions/37797709/convert-json-ipython-notebook-ipynb-to-py-file)
 
 **Difference between a Jupyter Notebook and Python**
 While Python is a programming language that you may already be familiar with, Jupyter notebook provides us for a sequential way of executing cells (containing python code), which is quite useful for Machine Learning since it is normally a process that is very similar from one task to another and always done in the same order.
