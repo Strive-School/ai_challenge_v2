@@ -21,6 +21,7 @@ Here are the topics that you need to now in order to complete the challenge:
 - Return statement
 - Importing Files
 - Iterating through files and text
+- Nested functions
 - How to debug in Python
 
 and to launch and complete our Jupyter notebook if you have never seen this format before:
@@ -36,6 +37,8 @@ While Python is a programming language that you may already be familiar with, Ju
 # Delivery
 - 01_Python_test.ipynb
 - Optional challenge: 02_Turning_Gauss_test (Instructions over email)
+
+In order to **pass the test**, you need to have done at least **5 out of 6 exercises correctly**. Meaning that you can skip one if you are perfectly sure than all the others are correct. Otherwise, we'd recommend doing all 6. You will earn **half a point** for explaining how you'd solve the exercise with **#pseudo-code** if you don't know how to code it. 
 
 Send it to jan@strive.school with the title: **My python assessment**.
 
